@@ -1,0 +1,251 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁it",
+                "▁has",
+                "▁been",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -24.377208709716797
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁has",
+                "▁been",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁world",
+                "."
+            ],
+            "score": -29.107770919799805
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁has",
+                "▁been",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -29.510881423950195
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁has",
+                "▁been",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁states",
+                "."
+            ],
+            "score": -30.43221664428711
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁has",
+                "▁been",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -31.2174072265625
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁has",
+                "▁been",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁states",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -31.6899356842041
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁has",
+                "▁been",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁world",
+                "."
+            ],
+            "score": -36.236141204833984
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁has",
+                "▁been",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "."
+            ],
+            "score": -36.61640167236328
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁has",
+                "▁been",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁states",
+                "."
+            ],
+            "score": -37.59971237182617
+        },
+        {
+            "hypothesis": [
+                "▁it",
+                "▁has",
+                "▁been",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁united",
+                "▁nations",
+                "▁in",
+                "▁the",
+                "▁world",
+                "."
+            ],
+            "score": -38.10554885864258
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjQtMDktMTZUMTA6MTQ6MjIuMDI5NTA1IiwgImgiOiAiSGVybWlueV9UWCIsICJ1IjogIjI4NzYwIn0="
+}
